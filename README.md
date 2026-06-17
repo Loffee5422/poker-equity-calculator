@@ -19,7 +19,9 @@ A native macOS poker equity calculator built with SwiftUI. Enter your hole cards
 
 ## Screenshots
 
-> Add screenshots here once you have them.
+![PokerPro Assistant — equity analysis with losing hand breakdown on a river board](screenshots/app-overview.png)
+
+*78s on a 9♠JK♥A♦4♠ river. 3.2% equity vs. random hands — losing hand panel shows straight (16 combos), three-of-a-kind (16), two pair (98), one pair (492), and high card (176) breakdowns with example holdings.*
 
 ---
 
